@@ -1,0 +1,1 @@
+# Write-a-program-for-determination-of-marginal-distribution-of-X-Y-.
